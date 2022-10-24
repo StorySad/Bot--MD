@@ -244,7 +244,7 @@ ${'```%npmdesc```'}
    "product": { 
    "productImage":{ 
    "mimetype": "image/jpeg", 
-   "jpegThumbnail": await (await fetch('https://telegra.ph/file/8f729fca4c6096d469664.jpg')).buffer(), //Gambarnye
+   "jpegThumbnail": await (await fetch('https://telegra.ph/file/8b9398cd43fa05306e863.jpg')).buffer(), //Gambarnye
      }, 
    "title": `${ucapan()}`, 
    "description": '𝗧 𝗜 𝗠 𝗘 : ' + wktuwib, 
@@ -284,7 +284,7 @@ ${'```%npmdesc```'}
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `YukiBot By KingOfBear`, 
+    message: `YukiBot By AkmalFauzan`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/db5b4aed0d6d2e6c10c8f.jpg')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
