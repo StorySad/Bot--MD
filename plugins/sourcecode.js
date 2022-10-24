@@ -13,13 +13,13 @@ await conn.sendButtonLoc(m.chat, await conn.resize(await (await fetch(flu + `${c
  
 ┏━━━ꕥ〔 *SCRIPT BOT* 〕ꕥ━⬣
 ┃✾ 📮*Script :* 
-┃✾ ╰ https://youtu.be/lDSHQvws9N0
-┃✾ 📮*Tiktok :*  
-┃✾ ╰ https://www.tiktok.com/@raraharsita2/video/7144195854117637402
+┃✾ ╰ https://teknosimple.com/Zj2ySVX6I1dl
+┃✾ 📮*YouTube :*  
+┃✾ ╰ https://youtube.com/channel/UCis8xP_szPuzRYnL-hgw6vA
 ┗━━━━━━ꕥ
 `,`📍 *N o t e :* 
 • Jangan lupa minta izin owner sebelum menggunakan scriptnya kak!
-• Jangan Lupa kasih Like & Follow My Tiktok
+• Jangan Lupa kasih Like & Follow My YouTube 
 
 Official By @${'0'.split('@')[0]}
 Powered By @${`${global.owner[0]}`.split('@')[0]}`, 'Pemilik Bot', '#owner')
