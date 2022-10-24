@@ -338,7 +338,7 @@ ${'```%npmdesc```'}
 ┃✾ Uptime: *${uptime} (${muptime})*
 ┃✾ Database: ${rtotalreg} dari ${totalreg}
 ┃✾ Youtube:
-┃✾ https://youtu.be/lDSHQvws9N0
+┃✾ https://youtube.com/channel/UCis8xP_szPuzRYnL-hgw6vA
 ┗━━━━━━ꕥ
 ━━━ꕥ〔 _*Quotes Harian*_ 〕ꕥ━⬣
 “${pickRandom(global.quotes)}”`.trim()
