@@ -4,8 +4,8 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6288279268362', 'KingOfBear', true], 
-['6288279268363', 'King Of Bear', true] 
+['6281283186765', 'Wå.mê/Äkmål', true], 
+['6281283186765', 'Wå.mê/Äkmål', true] 
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -35,15 +35,15 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.linkyt = 'https://youtu.be/PPLlC5NWAuE'
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 King Of Bear'
-global.linkgc = 'https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL'
-global.linkig = 'https://www.instagram.com/drak_ipul123'
+global.linkyt = 'https://youtube.com/channel/UCis8xP_szPuzRYnL-hgw6vA'
+global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Wå.mê/Äkmål'
+global.linkgc = 'https://chat.whatsapp.com/CBVVwIHekUaJZJCDQ3MWcc'
+global.linkig = 'https://www.instagram.com/noname_3110'
 global.deslink = ''
 global.logo = 'https://telegra.ph/file/1665521d176fbf172d735.jpg'
 global.titlink = 'Subscribe My Channel'
-global.bearkey = 'KingOfBear'
-global.bodlink = '@drak_ipul123'
+global.bearkey = 'Wå.mê/Äkmål'
+global.bodlink = '@noname_3110'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
@@ -54,7 +54,7 @@ global.urlnya = global.linkgc
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 882-7926-8363'
+global.phn = '+62 812-8318-6765'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
